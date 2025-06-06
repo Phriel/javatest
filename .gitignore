@@ -1,6 +1,6 @@
 # Compiled output
-#bin/
-#*.class
+bin/
+*.class
 
 # VS Code settings
 #.vscode/
